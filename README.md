@@ -46,7 +46,7 @@ The combined dataset contains approximately 4.3 million trip records across 12 c
    pip install -r requirements.txt
 ```
 
-4. Download the dataset from https://citibikenyc.com/system-data and place it at
+4. Download the dataset from (https://www.dropbox.com/scl/fi/pzzhlb49ufh9qhougc4w0/202505-citibike-tripdata.csv?rlkey=4c2fq7sz29l92rig9d1yxtgtm&st=v1mwvwms&dl=0) and place it at
    the project root as `202505-citibike-tripdata.csv`
 
 5. Launch Jupyter and open `notebook.ipynb`
